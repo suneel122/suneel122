@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @suneel122
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Battery Charging Animation
 
-<!---
-suneel122/suneel122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A pure HTML and CSS animation demonstrating a battery charging effect[cite: 1].
+
+## 📁 Repository Structure
+
+* `animation.html` - HTML layout structuring the battery body and internal charge level[cite: 1].
+* `eizaan.css` - Custom CSS styling and keyframe animation for the charging effect[cite: 1].
