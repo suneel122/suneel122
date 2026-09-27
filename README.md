@@ -1,8 +1,14 @@
-# Battery Charging Animation
+# Hi there, I'm Suneel Kumar 👋
 
-A pure HTML and CSS animation demonstrating a battery charging effect[cite: 1].
+- 🎓 Pursuing **BS in Computer Science** at Sindh Madressatul Islam University (Graduating Dec 2026)
+- 🤖 Enrolled in the **AI Specialization Program** at IBA Karachi
+- 🚀 **Microsoft Learn Student Ambassador**
+- 🔬 Co-authored research on machine learning applications in engineering
+- 🛠️ Currently building full-stack web applications and working with Python data tools
 
-## 📁 Repository Structure
+### 🛠️ Tech & Tools
+**Languages & Frameworks:** Python, JavaScript (Node.js, Express), C++, HTML/CSS, MySQL  
+**Data & AI:** NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, NLTK  
+**Tools:** Git, GitHub, VS Code, Cisco Packet Tracer, VirtualBox
 
-* `animation.html` - HTML layout structuring the battery body and internal charge level[cite: 1].
-* `eizaan.css` - Custom CSS styling and keyframe animation for the charging effect[cite: 1].
+📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
