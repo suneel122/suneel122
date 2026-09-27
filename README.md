@@ -11,4 +11,4 @@
 **Data & AI:** NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, NLTK  
 **Tools:** Git, GitHub, VS Code, Cisco Packet Tracer, VirtualBox
 
-📫 **How to reach me:** [LinkedIn]([https://www.linkedin.com/in/suneel-kumar-916608267/]) | [Email](suneelparihar50@gmail.com)
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/suneel-kumar-916608267) | [Email](mailto:suneelparihar50@gmail.com)
